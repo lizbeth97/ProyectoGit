@@ -10,3 +10,21 @@ section{
 #titulo{
     text-align: center;
 }
+
+#f{
+    text-align: center;
+    letter-spacing: 2px;
+    color:cadetblue;
+}
+
+#y{
+    text-align: center;
+    letter-spacing: 2px;
+    color:blueviolet;
+}
+
+#t{
+    text-align: center;
+    letter-spacing: 2px;
+    color:chocolate;
+}
