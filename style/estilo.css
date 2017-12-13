@@ -5,6 +5,8 @@ body{
 
 section{
     background-color: aliceblue;
+    margin: 100px;
+    padding: 150px;
 }
 
 #titulo{
@@ -27,4 +29,9 @@ section{
     text-align: center;
     letter-spacing: 2px;
     color:chocolate;
+}
+#b{
+    position: fixed;
+    margin: 10px;
+    padding: 50px;
 }
