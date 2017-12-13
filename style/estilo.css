@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+   /* background-color: aqua;*/
+}
+
+section{
+    background-color: aliceblue;
+}
+
+#titulo{
+    text-align: center;
+}
